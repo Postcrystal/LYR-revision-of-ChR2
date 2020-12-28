@@ -14,9 +14,15 @@ To start with, please make you ChR2 protein become a monomer with tools like VMD
 
 4. Replace the results for initial structure PDB file.
 
-example:
+Example:
+
 sh LYR_coor_change.sh 6eid_monomer_149.pdb for_cut_149 6eid_monomer.pdb
+
 Results(partial):
+
+![Edited](https://github.com/Postcrystal/LYR-revision-of-ChR2/blob/main/Edited.png)
+
+![Initial](https://github.com/Postcrystal/LYR-revision-of-ChR2/blob/main/Initial.png)
 
 ## Contact
 If you any question, you could send emails to 282869443@qq.com
